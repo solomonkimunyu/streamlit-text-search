@@ -11,7 +11,7 @@ from sklearn.linear_model import LogisticRegression
 import streamlit as st
 import plotly.express as px
 import pickle
-st.title("machine learning model that reads all incoming messages")
+st.title("Text search model")
 st.write("By Dennis Kevogo")
 
 # Reads 'Youtube04-Eminem.csv' file
